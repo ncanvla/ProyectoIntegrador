@@ -1,0 +1,404 @@
+.plato-4 {
+width: 286px;
+height: 96px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 - 520.5px);
+  top: 180px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+.botonrojo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+  position: absolute;
+   width: 71px;
+ height: 40px;
+right: 165px;
+  top: calc(50% - 750px/2);
+ background: #F62014;
+ border-radius: 6px;
+}
+
+
+.plato-2 {
+width: 286px;
+height: 96px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 - 180.5px);
+  top: 180px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-3 {
+  
+width: 286px;
+height: 96px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 149.5px);
+  top: 180px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-5 {
+width: 286px;
+height: 32px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 473.5px);
+  top: 50px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-01 {
+width: 286px;
+height: 32px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 - 520.5px);
+  top: 485px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-6 {
+width: 286px;
+height: 64px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 - 180.5px);
+  top: 485px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+
+
+.plato-7 {
+
+  width: 286px;
+  height: 64px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #18191F;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 469.5px);
+  top: 485px;
+
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-8 {
+  width: 286px;
+height: 64px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 149.5px);
+  top: 485px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+.plato-5 {
+  width: 286px;
+  height: 32px;  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;  
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;  
+  color: #18191F;  
+  flex: none;
+  order: 0;
+  flex-grow: 0;  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 473.5px);
+  top: 206px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+
+.plato-9 {
+width: 286px;
+height: 32px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+flex: none;
+order: 0;
+flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 + 149.5px);
+  top: 750px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.plato-10 {
+
+  width: 286px;
+  height: 32px;  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;  
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #18191F;
+  flex: none;
+  order: 0;
+  flex-grow: 0;  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 32px;
+  gap: 40px;
+
+  position: absolute;
+  width: 253px;
+  height: 196px;
+  left: calc(50% - 253px/2 - 200.5px);
+  top: 750px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+
+.rectangle-600 {
+  position: absolute;
+  width: 1518px;
+  height: 50px;
+  left: 0px;
+  top: 1012px;
+  background: #BB4E4E;
+}
+
+
+
+  .position {
+    position: absolute;
+    left: 44.86%;
+    right: 45.83%;
+    top: 12.3%;
+    bottom: 84.96%;
+  }
+  
+  .font {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 20px;
+    font-feature-settings: 'salt' on, 'liga' off;
+  }
+  
+  .color {
+    color: #18191F;
+  }
+  
+  .button-config1 {
+    
+width: 45px;
+height: 20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    position: absolute;
+    width: 85px;
+    height: 40px;
+    right: 165px;
+    top: calc(50% - 40px/2);
+    background: #F62014;
+    border-radius: 6px;
+  }
+  

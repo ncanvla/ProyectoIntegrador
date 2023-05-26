@@ -1,0 +1,713 @@
+
+.rectangulonaranja{
+    position: absolute;
+    width: 1440px;
+    height: 106px;
+    background: #BB4E4E;
+  }
+  
+
+.medium-label {
+    width: 62px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #18191F;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .realizar-pago {
+    position: absolute;
+    width: 271px;
+    height: 40px;
+    left: 584px;
+    top: 130px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 20px;
+    text-align: center;
+    color: #c51616;
+  }
+  .mesa-08 {
+    position: absolute;
+    width: 306px;
+    height: 57px;
+    left: 567px;
+    top: 197px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 20px;
+    /* or 62% */
+    text-align: center;
+    color: #000000;
+  }
+  .asado-de-res {
+    position: absolute;
+    width: 195.93px;
+    height: 31.05px;
+    left: 367.95px;
+    top: 315.8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+  .rectangle-592 {
+    position: absolute;
+    width: 365.6px;
+    height: 38.06px;
+    left: 283.4px;
+    top: 313px;
+    background: #C1B9B9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-593 {
+    position: absolute;
+    width: 365.6px;
+    height: 38.06px;
+    left: 283px;
+    top: 362.63px;
+    background: #C1B9B9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+.relleno-salado {
+    position: absolute;
+    width: 195.93px;
+    height: 31.05px;
+    left: 367.95px;
+    top: 366.23px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+.rectangle-594 {
+    position: absolute;
+    width: 365.6px;
+    height: 38.06px;
+    left: 283px;
+    top: 412.26px;
+    background: #C1B9B9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+.jugo-pina {
+    position: absolute;
+    width: 195.93px;
+    height: 31.05px;
+    left: 367.95px;
+    top: 419.46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+.rectangle-595 {
+    position: absolute;
+    width: 365.6px;
+    height: 38.06px;
+    left: 283px;
+    top: 461.89px;
+    background: #C1B9B9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+.cafe-con-leche {
+    position: absolute;
+    width: 195.93px;
+    height: 31.05px;
+    left: 369.76px;
+    top: 468.95px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+.s-8 {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    left: 758px;
+    top: 309px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+.s-10 {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    left: 758px;
+    top: 356px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+
+  .imagen {
+    position: absolute;
+    width: 143px;
+    height: 67px;
+    left: 146px;
+    top: -1px;
+  }
+
+  .s-11 {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    left: 758px;
+    top: 409px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+  
+.s-5 {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    left: 758px;
+    top: 462px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+
+.Button-Config {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    position: absolute;
+    width: 71px;
+    height: 40px;
+    right: 165px;
+    top: calc(50% - 40px/2);
+    background: #F62014;
+    border-radius: 6px;
+  }
+  .label {
+    width: 31px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+
+
+  .v1_103 {
+    width: 108px;
+    height: 39px;
+    background: url("../images/v1_103.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 628px;
+    left: 264px;
+    overflow: hidden;
+  }
+    .v1_106 {
+        width: 150px;
+        height: 38px;
+        background: url("../images/v1_106.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 628px;
+        left: 396px;
+        overflow: hidden;}
+  
+  
+    .v1_105 {
+        width: 108px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 5px;
+        left: 0px;
+        font-family: Inter;
+        font-weight: Medium;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+      }
+
+      .name {
+        color: #fff;
+      }
+
+
+      .v1_108 {
+        width: 150px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 4px;
+        left: 0px;
+        font-family: Inter;
+        font-weight: Medium;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+      }
+      .v1_109 {
+        width: 108px;
+        height: 39px;
+        background: url("../images/v1_109.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 627px;
+        left: 570px;
+        overflow: hidden;}
+     .v1_111 {
+     width: 108px;
+      color: rgba(0,0,0,1);
+     position: absolute;
+     top: 5px;
+    left: 0px;
+     font-family: Inter;
+     font-weight: Medium;
+     font-size: 16px;
+    opacity: 1;
+    text-align: center;}
+
+
+
+      .auto-layout {
+        position: absolute;
+        width: 108px;
+        height: 31px;
+        right: 1068px;
+        top: calc(50% - 31px/2 + 131.5px);
+        background: #EAEAEA;
+        border-radius: 6px;
+      }
+
+      .b1 {
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 20px;
+        gap: 10px;
+        
+        position: absolute;
+        width: 108px;
+        height: 31px;
+        right: 1068px;
+        top: calc(50% - 31px/2 + 160.5px);
+        
+        background: #EAEAEA;
+        border-radius: 6px;
+      }
+
+      .b2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 20px;
+        gap: 10px;
+        
+        position: absolute;
+        width: 150px;
+        height: 30.21px;
+        right: 894px;
+        top: calc(50% - 30.21px/2 + 160.5px);
+        
+        background: #EAEAEA;
+        border-radius: 6px;
+      
+      }
+
+      .b3{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 20px;
+        gap: 10px;
+        
+        position: absolute;
+        width: 108px;
+        height: 31px;
+        right: 762px;
+        top: calc(50% - 31px/2 + 160.5px);
+        
+        background: #EAEAEA;
+        border-radius: 6px;
+      
+      
+      }     
+      
+
+      .efectivo {
+        position: absolute;
+        width: 108px;
+        height: 34px;
+        left: 264px;
+        top: 633px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        font-feature-settings: 'salt' on, 'liga' off;
+        color: #000000;
+      }
+      
+      .transferencia {
+        position: absolute;
+        width: 150px;
+        height: 33.13px;
+        left: 396px;
+        top: 632.87px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        font-feature-settings: 'salt' on, 'liga' off;
+        color: #000000;
+      }
+      
+      .tarjeta {
+        position: absolute;
+        width: 108px;
+        height: 34px;
+        left: 570px;
+        top: 632px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        font-feature-settings: 'salt' on, 'liga' off;
+        color: #000000;
+      }
+      
+      
+
+
+
+
+
+.button-configx {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 108px;
+    height: 31px;
+    right: 762px;
+    top: calc(50% - 31px/2 + 130.5px);
+    
+    background: #EAEAEA;
+    border-radius: 6px;
+  }
+  .cancelo{
+    position: absolute;
+    width: 157px;
+    height: 36px;
+    left: 259px;
+    top: 725px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;    
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    
+    color: #000000;
+  }
+
+
+  .vuelto {
+    position: absolute;
+    width: 157px;
+    height: 36px;
+    left: 540px;
+    top: 714px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;    
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    
+    color: #000000;
+    
+  }
+
+  .vuelto {
+    position: absolute;
+    width: 157px;
+    height: 36px;
+    left: 540px;
+    top: 714px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+ 
+  .A50 {
+    position: absolute;
+    width: 84px;
+    height: 88px;
+    left: 291px;
+    top: 791px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+  .A21 {
+    position: absolute;
+    width: 84px;
+    height: 88px;
+    left: 572px;
+    top: 780px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #000000;
+  }
+  .cuadro-vuelto {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 25px 32px;
+    gap: 40px;
+    
+    position: absolute;
+    width: 99px;
+    height: 98px;
+    left: calc(50% - 99px/2 - 170.5px);
+    top: 750px;
+  
+    background: #FFFFFF;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+  }
+  .cuadro-cancelacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 27px 32px;
+    gap: 40px;
+    position: absolute;
+    width: 99px;
+    height: 98px;
+    left: calc(50% - 99px/2 - 450.5px);
+    top: 761px;
+    background: #FFFFFF;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+  }
+
+  .v1_147 {
+    width: 100%;
+    height: 106px;
+    background: rgba(187,77,77,1);
+    opacity: 1;
+    position: absolute;
+    top: 918px;
+    left: 0px;
+    overflow: hidden;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+  }
+ 
+  .efectuar-pago {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 167px;
+    height: 39px;
+    right: 174px;
+    left: 75%;
+    top: calc(50% - 39px/2 + 300.5px);
+    
+    background: #8EBE87;
+    border-radius: 6px;
+
+  }
+  
+
+
+
+  .cuadro-cancelacion1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px 32px;
+    gap: 40px;
+    
+  }
+
+  .auto-layout5{
+    position: absolute;
+width: 99px;
+height: 98px;
+left: calc(50% - 99px/2 - 387.5px);
+top: 761px;
+
+  }
+
+  .default-white {
+    background: #FFFFFF;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+  }
+
+
+  .icon-details6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 56px;
+    width: 286px;
+    height: 210px;
+    background: #FFFFFF;
+  }
+  
+  .auto-layout6{
+    width: 286px;
+    height: 210px;
+    background: #FFFFFF;
+  }
+  
+  .total {
+    position: absolute;
+    width: 241px;
+    height: 37px;
+    left: 1049px;
+    top: 762px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+  }
+  
+  .botonrojo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    position: absolute;
+     width: 71px;
+   height: 40px;
+  right: 165px;
+    top: calc(50% - 750px/2);
+   background: #F62014;
+   border-radius: 6px;
+  }
+
+  .buy-now {
+    width: 31px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+      color: #FFFFFF;
+  }
+  
